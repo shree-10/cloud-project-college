@@ -1,2 +1,2 @@
-# cloud-project-college
-### using docker and gcp
+
+# using docker and GCP
